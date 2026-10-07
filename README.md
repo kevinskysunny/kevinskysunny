@@ -12,24 +12,25 @@
 
 <p align="center">
   Crafting deterministic, polished native tools and autonomous agent workflows.<br>
-  Creator of <b><a href="https://support.kevinlabs.app">Kevin Labs</a></b> apps and high-concurrency developer infrastructure.
+  Creator of <b><a href="https://support.kevinlabs.app">Kevin Labs</a></b> commercial products and high-concurrency developer infrastructure.
 </p>
 
 ---
 
 </div>
 
-## 🚀 Featured Products & Commercial Software
+## 🚀 Commercial Products & Studio Suite (`Kevin Labs`)
 
-### 🍏 Native macOS Suite (`Kevin Labs`)
-*High-performance, local-first commercial utilities crafted with Swift, AppKit & CoreAudio.*
+*Official commercial applications and utilities maintained under [support.kevinlabs.app](https://support.kevinlabs.app).*
 
-| Product | Focus & Capability | Tech Stack | Status / Portal |
+| App | Description & Core Capability | Platform / Stack | Availability & Release |
 | :--- | :--- | :--- | :---: |
-| **[VolMix](https://support.kevinlabs.app/volmix/)** | Native menu bar per-app audio mixer & live audio indicator for macOS. | `Swift` `AppKit` `CoreAudio` | [![Mac App Store](https://img.shields.io/badge/v1.4.0-Mac%20App%20Store-blue?style=flat-square)](https://support.kevinlabs.app/volmix/) |
-| **[SmoothCast](https://support.kevinlabs.app/smoothcast/)** | Local-first studio: screen recording to polished videos & interactive step tutorial packages. | `Swift` `AVFoundation` `Web` | [![Commercial](https://img.shields.io/badge/Product-Official%20Guide-brightgreen?style=flat-square)](https://support.kevinlabs.app/smoothcast/) |
-| **[PresenterDeck](https://support.kevinlabs.app/presenter-deck/)** | Rehearsal podium & presentation runbook for macOS with MacBook Notch / Island integration. | `Swift` `AppKit` `NotchAPI` | [![Commercial](https://img.shields.io/badge/Product-Official%20Guide-brightgreen?style=flat-square)](https://support.kevinlabs.app/presenter-deck/) |
-| **[NetworkConsole Lite](https://support.kevinlabs.app/networkconsole-lite/)** | Read-only macOS network status monitor, interface health inspector & diagnostics. | `Swift` `AppKit` `SystemConfig` | [![Commercial](https://img.shields.io/badge/Product-Official%20Guide-brightgreen?style=flat-square)](https://support.kevinlabs.app/networkconsole-lite/) |
+| **[VolMix](https://support.kevinlabs.app/volmix/)** | Adjust volume and mute for detected audio apps independently from your Mac menu bar. | `macOS` `Swift` `CoreAudio` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.1.6-blue?style=flat-square&logo=apple)](https://apps.apple.com/us/app/volmix-per-app-volume/id6806717830) |
+| **[SmoothCast](https://smoothcast.kevinlabs.app/)** | Cinematic screen recording with smooth zooms and auto-generated step tutorial guide packages. | `macOS` `Swift` `AVFoundation` | [![Commercial App](https://img.shields.io/badge/Official%20App-v1.1.1-brightgreen?style=flat-square)](https://smoothcast.kevinlabs.app/) |
+| **[IE Compat Bridge](https://ie-compat.kevinlabs.app/)** | Run legacy enterprise & intranet pages in modern Chrome without running a Windows virtual machine. | `Chrome Ext` `macOS/Win` | [![Extension](https://img.shields.io/badge/Browser%20Extension-v0.6.0-orange?style=flat-square)](https://ie-compat.kevinlabs.app/) |
+| **[KSIC Studio](https://support.kevinlabs.app/ksic-studio/)** | Organize, search and open your websites and work resources from a local-first Mac workspace. | `macOS` `Swift` `Local-First` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.0.0-blue?style=flat-square&logo=apple)](https://apps.apple.com/us/app/ksic-studio/id6801325655) |
+| **[NetDoctor](https://support.kevinlabs.app/netdoctor/)** | Inspect your Mac’s network state and get practical next steps without changing network settings. | `macOS` `Swift` `SystemConfig` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.1-blue?style=flat-square&logo=apple)](https://apps.apple.com/us/app/netdoctor/id6801707344) |
+| **[PresenterDeck](https://support.kevinlabs.app/presenter-deck/)** | Native macOS presentation runbook for section-by-section agenda planning, rehearsal, and stage control. | `macOS` `Swift` `AppKit` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.4.0-blue?style=flat-square&logo=apple)](https://apps.apple.com/app/id6805086319) |
 
 ---
 
@@ -43,13 +44,6 @@
 | **[dingtalk-workspace-cli](https://github.com/kevinskysunny/dingtalk-workspace-cli)** | High-throughput command-line interface & autonomous agent control plane for workspaces. | `Go` `CLI` `Agent-Ready` | [![OpenSource](https://img.shields.io/badge/CLI%20Tool-Open%20Source-2ea44f?style=flat-square)](https://github.com/kevinskysunny/dingtalk-workspace-cli) |
 | **[kevin-labs-support](https://github.com/kevinskysunny/kevin-labs-support)** | Public support portal, interactive app manuals, and user documentation engine. | `HTML` `CSS` `Cloudflare Pages` | [![Live](https://img.shields.io/badge/Portal-Live%20Hub-orange?style=flat-square)](https://support.kevinlabs.app) |
 | **AgentCockpit / KLC** | 5-stage quality-gated multi-agent assembly line orchestrating heterogeneous LLMs. | `Python` `Multi-Agent` `Gateway` | ![Engine](https://img.shields.io/badge/Multi--Agent-Engine-purple?style=flat-square) |
-
----
-
-## 🌐 Commercial Extensions & Web Runtimes
-
-- **IE Compat Bridge**: Zero-overhead enterprise browser extension enabling modern Chromium & WebKit browsers to execute legacy enterprise web applications seamlessly.
-- **FastExit Booster**: Ultra-lightweight (<15KB) zero-dependency anti-abandonment conversion booster for modern e-commerce storefronts.
 
 ---
 
