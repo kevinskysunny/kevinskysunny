@@ -36,13 +36,12 @@
 
 ## 🛠️ Open Source & Systems Engineering
 
-*High-concurrency distributed algorithms, production native apps, and autonomous agent tooling.*
+*100% original, production-tested native apps and high-concurrency algorithms.*
 
 | Project | Focus & Highlights | Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | **[NetDoctor](https://github.com/kevinskysunny/NetDoctor)** | Production macOS menu bar network diagnostic utility. Published on Mac App Store, 100% free & open-source. | `Swift` `AppKit` `Network.framework` | [![Open Source](https://img.shields.io/badge/Mac%20App%20Store-Open%20Source-blue?style=flat-square&logo=apple)](https://github.com/kevinskysunny/NetDoctor) |
 | **[sharded-lru](https://github.com/kevinskysunny/sharded-lru)** | High-performance, generic sharded LRU cache with zero data races and lock-free eviction. | `Go` `Concurrency` `Lock-Free` | [![MIT](https://img.shields.io/badge/Go%20Open%20Source-MIT-00ADD8?style=flat-square)](https://github.com/kevinskysunny/sharded-lru) |
-| **[dingtalk-workspace-cli](https://github.com/kevinskysunny/dingtalk-workspace-cli)** | High-throughput command-line interface & autonomous agent control plane for workspaces. | `Go` `CLI` `Agent-Ready` | [![OpenSource](https://img.shields.io/badge/CLI%20Tool-Open%20Source-2ea44f?style=flat-square)](https://github.com/kevinskysunny/dingtalk-workspace-cli) |
 
 ---
 
