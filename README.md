@@ -21,7 +21,7 @@
 
 ## 🚀 Commercial Products & Studio Suite (`Kevin Labs`)
 
-*Official commercial applications and utilities maintained under [support.kevinlabs.app](https://support.kevinlabs.app).*
+*Official applications and utilities maintained under [support.kevinlabs.app](https://support.kevinlabs.app).*
 
 | App | Description & Core Capability | Platform / Stack | Availability & Release |
 | :--- | :--- | :--- | :---: |
@@ -29,21 +29,20 @@
 | **[SmoothCast](https://smoothcast.kevinlabs.app/)** | Cinematic screen recording with smooth zooms and auto-generated step tutorial guide packages. | `macOS` `Swift` `AVFoundation` | [![Commercial App](https://img.shields.io/badge/Official%20App-v1.1.1-brightgreen?style=flat-square)](https://smoothcast.kevinlabs.app/) |
 | **[IE Compat Bridge](https://ie-compat.kevinlabs.app/)** | Run legacy enterprise & intranet pages in modern Chrome without running a Windows virtual machine. | `Chrome Ext` `macOS/Win` | [![Extension](https://img.shields.io/badge/Browser%20Extension-v0.6.0-orange?style=flat-square)](https://ie-compat.kevinlabs.app/) |
 | **[KSIC Studio](https://support.kevinlabs.app/ksic-studio/)** | Organize, search and open your websites and work resources from a local-first Mac workspace. | `macOS` `Swift` `Local-First` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.0.0-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/ksic-studio/) |
-| **[NetDoctor](https://support.kevinlabs.app/netdoctor/)** | Inspect your Mac’s network state and get practical next steps without changing network settings. | `macOS` `Swift` `SystemConfig` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.1-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/netdoctor/) |
+| **[NetDoctor](https://support.kevinlabs.app/netdoctor/)** | Inspect your Mac’s network state and get practical next steps without changing network settings. | `macOS` `Swift` `SystemConfig` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-Free-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/netdoctor/) |
 | **[PresenterDeck](https://support.kevinlabs.app/presenter-deck/)** | Native macOS presentation runbook for section-by-section agenda planning, rehearsal, and stage control. | `macOS` `Swift` `AppKit` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.4.0-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/presenter-deck/) |
 
 ---
 
 ## 🛠️ Open Source & Systems Engineering
 
-*High-concurrency distributed algorithms, autonomous multi-agent pipelines, and developer tooling.*
+*High-concurrency distributed algorithms, production native apps, and autonomous agent tooling.*
 
 | Project | Focus & Highlights | Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **[NetDoctor](https://github.com/kevinskysunny/NetDoctor)** | Production macOS menu bar network diagnostic utility. Published on Mac App Store, 100% free & open-source. | `Swift` `AppKit` `Network.framework` | [![Open Source](https://img.shields.io/badge/Mac%20App%20Store-Open%20Source-blue?style=flat-square&logo=apple)](https://github.com/kevinskysunny/NetDoctor) |
 | **[sharded-lru](https://github.com/kevinskysunny/sharded-lru)** | High-performance, generic sharded LRU cache with zero data races and lock-free eviction. | `Go` `Concurrency` `Lock-Free` | [![MIT](https://img.shields.io/badge/Go%20Open%20Source-MIT-00ADD8?style=flat-square)](https://github.com/kevinskysunny/sharded-lru) |
 | **[dingtalk-workspace-cli](https://github.com/kevinskysunny/dingtalk-workspace-cli)** | High-throughput command-line interface & autonomous agent control plane for workspaces. | `Go` `CLI` `Agent-Ready` | [![OpenSource](https://img.shields.io/badge/CLI%20Tool-Open%20Source-2ea44f?style=flat-square)](https://github.com/kevinskysunny/dingtalk-workspace-cli) |
-| **[kevin-labs-support](https://github.com/kevinskysunny/kevin-labs-support)** | Public support portal, interactive app manuals, and user documentation engine. | `HTML` `CSS` `Cloudflare Pages` | [![Live](https://img.shields.io/badge/Portal-Live%20Hub-orange?style=flat-square)](https://support.kevinlabs.app) |
-| **AgentCockpit / KLC** | 5-stage quality-gated multi-agent assembly line orchestrating heterogeneous LLMs. | `Python` `Multi-Agent` `Gateway` | ![Engine](https://img.shields.io/badge/Multi--Agent-Engine-purple?style=flat-square) |
 
 ---
 
@@ -61,7 +60,7 @@
                        (Go / Python)
 ```
 
-- **Native Development**: Swift, SwiftUI, AppKit, AVFoundation, CoreAudio
+- **Native Development**: Swift, SwiftUI, AppKit, AVFoundation, CoreAudio, SystemConfiguration
 - **High Concurrency & Systems**: Go (`sharded-lru`), Lock-Free Concurrency, Benchmarking, Zero-Alloc Optimization
 - **Agentic & AI Infrastructure**: Heterogeneous LLM Orchestration, Quality-Gated Assembly Lines, CLI Control Surfaces
 - **Web & Runtimes**: TypeScript, Chromium Extension APIs, Web Standards, Performance Optimization
