@@ -30,7 +30,7 @@
 | **[IE Compat Bridge](https://ie-compat.kevinlabs.app/)** | Run legacy enterprise & intranet pages in modern Chrome without running a Windows virtual machine. | `Chrome Ext` `macOS/Win` | [![Extension](https://img.shields.io/badge/Browser%20Extension-v0.6.1-orange?style=flat-square)](https://ie-compat.kevinlabs.app/) |
 | **[KSIC Studio](https://support.kevinlabs.app/ksic-studio/)** | Organize, search and open your websites and work resources from a local-first Mac workspace. | `macOS` `Swift` `Local-First` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.1.1-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/ksic-studio/) |
 | **[NetDoctor](https://support.kevinlabs.app/netdoctor/)** | Inspect your Mac’s network state and get practical next steps without changing network settings. | `macOS` `Swift` `SystemConfig` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-Free-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/netdoctor/) |
-| **[PresenterDeck](https://support.kevinlabs.app/presenter-deck/)** | Native macOS presentation runbook for section-by-section agenda planning, rehearsal, and stage control. | `macOS` `Swift` `AppKit` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.4.0-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/presenter-deck/) |
+| **[PresenterDeck](https://support.kevinlabs.app/presenter-deck/)** | Native macOS presentation runbook for section-by-section agenda planning, rehearsal, and stage control. | `macOS` `Swift` `AppKit` | [![Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-v1.4.1-blue?style=flat-square&logo=apple)](https://support.kevinlabs.app/presenter-deck/) |
 
 ---
 
