@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Kevin (`Kevin Labs`)
+# 👨‍💻 Kevin
 ### **Indie Hacker · macOS Native Creator · AI-Native Systems Architect**
 
 <p align="center">
